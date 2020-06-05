@@ -1,0 +1,6 @@
+application_name=xiaoqing-local-test
+application_version=1.0.0
+application_icon=http://t8.baidu.com/it/u=2857883419,1187496708&fm=79&app=86&f=JPEG?w=1280&h=763
+application_description=xiaoqing\ local\ test\ install\ extension
+helm_chart_version=1.0.0
+docker_registry=docker.io/xiaoqing2chen
